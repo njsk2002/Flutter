@@ -9,7 +9,7 @@
 // import 'package:study_02/widgets/padding_widget.dart';
 // import 'package:study_02/widgets/row_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:study_02/widgets/Expanded_widget_example.dart';
+//import 'package:study_02/widgets/Expanded_widget_example.dart';
 import 'package:study_02/widgets/column_widget_example.dart';
 import 'package:study_02/widgets/expanded_example.dart';
 import 'package:study_02/widgets/expanded_sample.dart';
